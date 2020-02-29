@@ -1,0 +1,52 @@
+<form class="morg-calc">
+    <h4>Mortgage Calculator by Money Bin Inc. in Duckberg . </h4>
+ 
+  <fieldset>
+  <legend>Fill in your numbers to calculate your own mortage plan</legend>
+
+       <form>
+    <label><b>Enter your name:</b></label>
+    <input type="text" name="message" id="user_input">
+  </form>
+    
+    
+  <div class="l-flexwrap l-spacebetween">
+  <div class="form-group">
+  <label for="sell-price">Selling Price *</label>
+  <input type="number" name="sell_price" id="sell-price" placeholder="€0" required></input>
+   </div>
+
+   <div class="form-group">
+   <label for="dwn-payment">Total Loan *</label>
+   <input type="number" name="dwn_payment" id="dwn-payment" placeholder="€0" required></input>
+   </div>
+
+   <div class="form-group">
+   <label for="rate">Interest Rate *</label>
+   <input type="number" name="rate" id="rate" placeholder="0%" required></input>
+   </div>
+  
+   <div class="form-group">
+   <label for="yrs">Number of payments *</label>
+   <input type="number" name="yrs" id="yrs" placeholder="0" required></input>
+   </div>
+ 
+   <div class="form-group">
+   <label for="mopayment">Result: Monthly Payment Plan</label>
+   <input type="number" readonly name="mopayment" id="mopayment" placeholder="--"></input>
+   </div>
+   </div>
+   </fieldset>
+   </form>
+  
+
+
+  </head>
+<body>
+  
+    <label><p>Thank you for using our service! </p>
+
+  <p><span id='display'></span></p>
+  
+  
+  
