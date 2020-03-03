@@ -1,58 +1,59 @@
 # crosskey_2020_helin
 
-Code test - Mortage plan
-In this test I have been programming an mortage calculator for the centric bank Money Bin Inc. in Duckburg. The code comes in Javascript and HTML. 
+Code test, the Mortage plan: 
+In this test I have been programming an mortage calculator for the centric bank Money Bin Inc. in Duckburg. The code that I have been writing comes in Javascript and HTML. 
 
-Getting Started
-In the 
+Getting started and background: 
+In the beggining when I was given the project I started to look for information of how to program the calculator. I used various programming sources on Google and videos on Youtube as my guideline. I am a self-learned programmer, mainly in Python, and therefore it was a challange to take on the task. I have programmed this code myself, with Google and Youtube as my teachers. I hope the result represents what you had in mind. Otherwise I will continue my practice in Java and apply for your summer internship again next year. 
 
-Prerequisites
-What things you need to install the software and how to install them
+Prerequisites:
+I have coded in Eclipse, but when I realiced that it's was working better for me to program in an online portal. I started writing my code at https://jsbin.com/?html,js,output and it turned out to be my main use of portal. In JS Bin, it's easy to program in HTML and Javascript, in the same time as displaying the output next to the code.
+ 
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+Here is the all my code with functional calculator in JS bin: 
+https://jsbin.com/qixulijaka/1/edit?html,js,output
 
-Say what the step will be
 
-Give the example
-And repeat
+Example of how the application is running:
+The application is an online calculator in which the user is putting in information and gets a calculated result in real time. The user also has a possibility to fill in thier name, but it won't affect the calculator. 
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+Required fill in fields: 
+- Name
+- Total Loan
+- Interest rate
+- Number of Payments
+= Result (monthly payment)
 
-Running the tests
-Explain how to run the automated tests for this system
 
-Break down into end to end tests
-Explain what these tests test and why
+Here is the output-function, the calculator, displayed in a new window:
+https://jsbin.com/qixulijaka/1
 
-Give an example
-And coding style tests
-Explain what these tests test and why
 
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
 
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Example of output: 
+By taking the prospects, for example:
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Juha,1000,5,2
+My calcutalor gives the output:
+43,87€
 
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+Karvinen,4356,1.27,6
+My calcutalor gives the output:
+62,87 €
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Claes Månsson,1300.55,8.67,2
+My calcutalor gives the output: 
+59,22 €
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+"Clarencé,Andersson",2000,6,4
+My calcutalor gives the output: 
+46,97 €
+
+
+The calcualtor is functioning well for different types of input.
+
+
+Thank you for this oppurtunity. I hope this is what you are looking for. I will continue my Java practice during the spring 2020.
+Best regards,
+Victoria Helin
+
