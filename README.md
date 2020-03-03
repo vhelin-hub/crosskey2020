@@ -41,19 +41,19 @@ Example of output:
 By taking the prospects, for example:
 
 Juha,1000,5,2
-My calcutalor gives the output:
+My calculator gives the output:
 43,87€
 
 Karvinen,4356,1.27,6
-My calcutalor gives the output:
+My calculator gives the output:
 62,87 €
 
 Claes Månsson,1300.55,8.67,2
-My calcutalor gives the output: 
+My calculator gives the output: 
 59,22 €
 
 "Clarencé,Andersson",2000,6,4
-My calcutalor gives the output: 
+My calculator gives the output: 
 46,97 €
 
 
