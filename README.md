@@ -1,11 +1,11 @@
 # crosskey_2020_helin
 
 Code test, the Mortage plan:
-In this test I have been programming an mortage calculator for the centric bank Money Bin Inc. in Duckburg. The code that I have been writing comes in Javascript and HTML. 
+In this test I have been programming a mortage calculator for the centric bank Money Bin Inc. in Duckburg. The code that I have been writing comes in Javascript and HTML. 
 
 
 Getting started and background: 
-In the beggining when I was given the project I started to look for information of how to program the calculator. I used various programming sources on Google and videos on Youtube as my guideline. I am a self-learned programmer, mainly in Python, and therefore it was a challange to take on the task. I have programmed this code myself, with Google and Youtube as my teachers. I hope the result represents what you had in mind. Otherwise I will continue my practice in Java and apply for your summer internship again next year. 
+In the beggining when I was given the project I started to look for information of how to program the calculator. I used various programming sources on Google and videos on Youtube as my guideline. I am a self-learned programmer, mainly in Python, and therefore it was a challange to take on the task. I have programmed this code myself, with Google and Youtube as my teachers. I hope the result represents what you had in mind. Otherwise I will continue practice Java and apply for your summer internship again next year. 
 
 
 Prerequisites:
