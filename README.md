@@ -14,7 +14,7 @@ I have coded in Eclipse, but when I realized that it was working better for me t
 
 
 Here is the all my code with functional calculator in JS bin: 
-https://jsbin.com/qixulijaka/1/edit?html,js,output
+https://jsbin.com/nadufiweho/edit?html,js,output
 
 
 
@@ -32,7 +32,7 @@ Required fill in fields:
 
 
 Here is the output-function, the calculator, displayed in a new window:
-https://jsbin.com/qixulijaka/1
+https://jsbin.com/nadufiweho
 
 
 
