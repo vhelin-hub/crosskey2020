@@ -9,7 +9,7 @@ In the beggining when I was given the project I started to look for information 
 
 
 Prerequisites:
-I have coded in Eclipse, but when I realiced that it's was working better for me to program in an online portal I started writing my code at https://jsbin.com/?html,js,output and it turned out that I manily used that. In JS Bin, it's easy to program in HTML and Javascript, in the same time as displaying the output next to the code.
+I have coded in Eclipse, but when I realized that it was working better for me to program in an online portal I started writing my code at https://jsbin.com/?html,js,output and I used it throughout the process. In JS Bin, it's easy to program in HTML and Javascript, in the same time as displaying the output next to the code.
  
 
 
@@ -61,7 +61,7 @@ The calculator is functioning well for different types of input.
 
 
 
-Thank you for this oppurtunity. I hope this is what you are looking for. I will continue my Java practice during the spring 2020.
+Thank you for this oppurtunity. I hope this is what you are looking for. I will continue practice Java during the spring 2020.
 
 Best regards,
 
