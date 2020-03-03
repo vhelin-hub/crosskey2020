@@ -9,7 +9,7 @@ In the beggining when I was given the project I started to look for information 
 
 
 Prerequisites:
-I have coded in Eclipse, but when I realiced that it's was working better for me to program in an online portal. I started writing my code at https://jsbin.com/?html,js,output and it turned out to be my main use of portal. In JS Bin, it's easy to program in HTML and Javascript, in the same time as displaying the output next to the code.
+I have coded in Eclipse, but when I realiced that it's was working better for me to program in an online portal I started writing my code at https://jsbin.com/?html,js,output and it turned out that I manily used that. In JS Bin, it's easy to program in HTML and Javascript, in the same time as displaying the output next to the code.
  
 
 
